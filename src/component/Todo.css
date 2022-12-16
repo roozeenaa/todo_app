@@ -1,0 +1,15 @@
+.container{
+    background-color:blueviolet;
+    color:white;
+    width:400px;
+    padding:0 10px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.button{
+    margin: 10px;
+}
